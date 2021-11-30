@@ -1,0 +1,21 @@
+site_name: 复旦大学 Courses Wiki
+
+theme:
+  name: material
+  custom_dir: overrides
+
+repo_url: https://github.com/shenhao-stu/fudan-courses-wiki
+
+markdown_extensions:
+  - def_list
+  - pymdownx.tasklist:
+        custom_checkbox: true
+
+plugins:
+  - search:
+      lang:
+        - en
+        - ja
+
+extra:
+  disqus: 'fudan'
