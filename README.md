@@ -1,6 +1,7 @@
 <div align=center>
-<img src="https://raw.githubusercontent.com/shenhao-stu/WiKi-for-Sufe-Courses/master/fudan_logo.png" width="250">
+<img src="https://raw.githubusercontent.com/shenhao-stu/fudan-courses-wiki/master/fudan_logo.png" width="250">
 </div>
+
 
 
 
